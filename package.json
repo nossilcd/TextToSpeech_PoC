@@ -1,0 +1,11 @@
+{
+  "name": "text-to-speech",
+  "version": "1.0.0",
+  "description": "Text to speech and translation app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Avila",
+  "license": "ISC"
+}
